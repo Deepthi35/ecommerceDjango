@@ -1,0 +1,8 @@
+pip install django
+pip install flask
+pip install mysql
+pip install mysql-connector-python
+pip install spacy 
+pip install pandas
+pip install pillow
+python -m spacy download en_core_web_sm
